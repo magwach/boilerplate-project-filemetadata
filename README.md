@@ -1,3 +1,28 @@
-# File Metadata Microservice
+**Overview**
+A microservice to retrieve metadata about uploaded files.
 
-This is the boilerplate for the File Metadata Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/file-metadata-microservice
+**Features**
+
+    • Upload files to view their metadata
+    • Displays file name, size, and type
+    • Simple and intuitive interface
+
+**Setup Instructions**
+
+_Clone the repository:_
+
+    git clone https://github.com/magwach/boilerplate-project-filemetadata.git  
+    
+_Install dependencies:_
+
+    npm install  
+    
+_Start the server:_
+
+    npm start  
+    
+**Technologies**
+
+    • Node.js
+    • Express
+    • Multer
